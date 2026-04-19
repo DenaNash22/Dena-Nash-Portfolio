@@ -3,4 +3,9 @@ Dena Nash Portfolio is a multi-page webpage to share insight about who Dena Nash
 The HTML is semantic and validated. 
 The CSS is responsive. 
 There is no Javascript.
-The website features a Home page as well as pages for About Me, Resume and Projects.
+The website features the following pages:
+1) Home 
+2) About Me
+3) Resume
+4) Projects
+The website URL is: <ADD published URL>.
