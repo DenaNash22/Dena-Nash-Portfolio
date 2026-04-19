@@ -1,5 +1,5 @@
 # Dena Nash Portfolio
-Dena Nash Portfolio is a multi-page webpage to share insight about who Dena Nash is as a professional marketer with a diverse set of skills including coding. 
+Dena Nash Portfolio is a multi-page website to share insight about who Dena Nash is as a professional marketer who thrives at the intersection of marketing and technology, simplifies complexity and drives results. She has a diverse set of skills, now including coding. 
 The HTML is semantic and validated. 
 The CSS is responsive. 
 There is no Javascript.
