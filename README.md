@@ -8,4 +8,4 @@ The website features the following pages:
 2) About Me
 3) Resume
 4) Projects
-The website URL is: <ADD published URL>.
+The website URL is: https://denanash22.github.io/Dena-Nash-Portfolio/index.html.
