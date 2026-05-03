@@ -12,7 +12,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     margin: 0;
     background-color:#F2B6A0;
-    color: #e2e8f0;
+    color: #0D0D0D;
     min-width:500px;
     display:grid;
     grid-template-columns:1fr;
