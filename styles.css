@@ -64,7 +64,7 @@ img {
     width:100%;
 }
 
-#screenings, #workshops, #collaborations {
+#about, #resume, #projects{
     background-color: #1e293b;
     padding: 1rem;
     border-left: 4px solid #D90B42; 
@@ -72,8 +72,8 @@ img {
 
 a {
     display:block;
-    background-color:#020617;
-    color:#e2e8f0;
+    background-color:#D9806C;
+    color:#020617;
     padding:1rem 2rem;
     text-decoration:none;
     text-align:center;
@@ -84,7 +84,7 @@ a:hover {
 }
 
 footer {
-    background-color: #020617;
+    background-color: #D9806C;
     text-align: center;
     padding: 1rem;
     margin-top: 1rem;
