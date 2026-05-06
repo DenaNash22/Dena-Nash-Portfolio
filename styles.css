@@ -110,19 +110,6 @@ section p {
     border-left: 4px solid #D90B42; 
 }
 
-a {
-    display:block;
-    background-color:#D9806C;
-    color:#020617;
-    padding:1rem 2rem;
-    text-decoration:none;
-    text-align:center;
-}
-a:hover {
-    color:#020617;
-    background-color:#e2e8f0;
-}
-
 footer {
     background-color: #D9806C;
     text-align: center;
