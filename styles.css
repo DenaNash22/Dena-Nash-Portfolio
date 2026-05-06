@@ -75,14 +75,21 @@ img {
     height: auto;      
 }   
 
-#about, #projects {
+#about{
     display: flex;
     gap: 1rem;
     align-items: flex-start;
 }
 
+#projects {
+    display: flex;
+    flex-direction: column;  
+    gap: 1rem;
+    align-items: flex-start;
+}
+
 section .project-image {
-    max-width: 250px;
+    max-width: 300px;
     height: auto;
     flex-shrink: 0;
 }
