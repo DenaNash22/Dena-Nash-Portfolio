@@ -76,6 +76,12 @@ section img {
     flex-shrink: 0;  
 }
 
+.headshot {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
 section p {
     flex: 1;
 }
