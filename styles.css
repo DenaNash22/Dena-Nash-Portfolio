@@ -81,6 +81,11 @@ img {
     align-items: flex-start;
 }
 
+.project-image {
+    max-width: 250px;  
+    height: auto;
+}
+
 section img {
     max-width: 120px;
     flex-shrink: 0;  
