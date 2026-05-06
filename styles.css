@@ -44,16 +44,26 @@ nav ul {
 }
 
 nav a {
-    color: #e2e8f0;
-    text-decoration: none;
-    padding: 0.5rem;
-    display: block;
-    border-left: 4px solid #D90B42; 
-    margin: .25rem;
+    display:block;
+    background-color:#D9806C;
+    color:#020617;
+    padding:1rem 2rem;
+    text-decoration:none;
+    text-align:center;
 }
 
 nav a:hover {
-    background-color: #D9806C
+    color:#020617;
+    background-color:#e2e8f0;
+}
+
+main a {
+    color: #A60311;
+    text-decoration: underline;
+}
+
+main a:hover {
+    color: #D90B42;
 }
 
 main {
