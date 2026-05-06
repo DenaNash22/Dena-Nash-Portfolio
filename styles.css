@@ -100,8 +100,8 @@ section img {
 }
 
 .headshot {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     float: left;  
     margin: 0 0 1rem 1rem; 
