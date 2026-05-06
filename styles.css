@@ -61,7 +61,23 @@ main {
 }
 
 img {
-    width:100%;
+    max-width: 150px;  
+    height: auto;      
+}   
+
+#about, #projects {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+section img {
+    max-width: 120px;
+    flex-shrink: 0;  
+}
+
+section p {
+    flex: 1;
 }
 
 #about, #resume, #projects{
